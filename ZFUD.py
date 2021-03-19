@@ -2,12 +2,12 @@
 # -*- coding: utf8 -*-  
 
 # @name   : ZFUD - FUD RAT REVERSE SHELL  
- 
+# Author  : https://github.com/ziddihacker2/ZFUD.git
 
 #            ---------------------------------------------------
 #                         ZFUD by Ziddi Hacker 2                                                
 #            ---------------------------------------------------
-#                               Copyright (D) <2021>   
+#                               Copyright (C) <2021>   
 #
 #        This program is free software: you can redistribute it and/or modify
 #        it under the terms of the GNU General Public License as published by
